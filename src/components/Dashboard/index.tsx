@@ -1,4 +1,4 @@
-import * as Icons from '@lobehub/icons';
+import * as Icons from '@unitalkai/icons';
 import { createStyles } from 'antd-style';
 import { memo } from 'react';
 import { Flexbox } from 'react-layout-kit';

@@ -9,7 +9,7 @@ description: https://tongyi.aliyun.com
 ## Icons
 
 ```tsx
-import { Tongyi } from '@lobehub/icons';
+import { Tongyi } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -23,7 +23,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Tongyi } from '@lobehub/icons';
+import { Tongyi } from '@unitalkai/icons';
 
 export default () => <Tongyi.Text size={48} />;
 ```
@@ -31,7 +31,7 @@ export default () => <Tongyi.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Tongyi } from '@lobehub/icons';
+import { Tongyi } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -46,7 +46,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Tongyi } from '@lobehub/icons';
+import { Tongyi } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -61,7 +61,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Tongyi } from '@lobehub/icons';
+import { Tongyi } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

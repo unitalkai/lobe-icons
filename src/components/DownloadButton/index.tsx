@@ -1,4 +1,4 @@
-import { ActionIcon, ActionIconSize, DivProps, TooltipProps } from '@lobehub/ui';
+import { ActionIcon, ActionIconSize, DivProps, TooltipProps } from '@unitalkai/ui';
 import { Download } from 'lucide-react';
 import { memo } from 'react';
 

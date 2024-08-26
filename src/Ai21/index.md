@@ -9,7 +9,7 @@ description: https://huggingface.co/ai21labs
 ## Icons
 
 ```tsx
-import { Ai21 } from '@lobehub/icons';
+import { Ai21 } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -22,7 +22,7 @@ export default () => (
 ## Text
 
 ```tsx
-import { Ai21 } from '@lobehub/icons';
+import { Ai21 } from '@unitalkai/icons';
 
 export default () => <Ai21.Text size={48} />;
 ```
@@ -30,7 +30,7 @@ export default () => <Ai21.Text size={48} />;
 ## Combine
 
 ```tsx
-import { Ai21 } from '@lobehub/icons';
+import { Ai21 } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => <Ai21.Combine size={64} />;
@@ -39,7 +39,7 @@ export default () => <Ai21.Combine size={64} />;
 ## Brands
 
 ```tsx
-import { Ai21 } from '@lobehub/icons';
+import { Ai21 } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -53,7 +53,7 @@ export default () => (
 ## Avatars
 
 ```tsx
-import { Ai21 } from '@lobehub/icons';
+import { Ai21 } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => (
@@ -68,7 +68,7 @@ export default () => (
 ## Colors
 
 ```tsx
-import { Ai21 } from '@lobehub/icons';
+import { Ai21 } from '@unitalkai/icons';
 import { Flexbox } from 'react-layout-kit';
 
 import ColorPreview from '../components/ColorPreview';

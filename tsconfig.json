@@ -9,8 +9,8 @@
     "paths": {
       "@@/*": [".dumi/tmp/*"],
       "@/*": ["src/*"],
-      "@lobehub/icons": ["src"],
-      "@lobehub/icons/*": ["src/*"]
+      "@unitalkai/icons": ["src"],
+      "@unitalkai/icons/*": ["src/*"]
     },
     "resolveJsonModule": true,
     "skipLibCheck": true,

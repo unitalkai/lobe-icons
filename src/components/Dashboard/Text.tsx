@@ -1,5 +1,5 @@
-import * as Icons from '@lobehub/icons';
-import { StoryBook, useControls, useCreateStore } from '@lobehub/ui';
+import * as Icons from '@unitalkai/icons';
+import { StoryBook, useControls, useCreateStore } from '@unitalkai/ui';
 import { createStyles } from 'antd-style';
 import { memo } from 'react';
 import { Flexbox } from 'react-layout-kit';
