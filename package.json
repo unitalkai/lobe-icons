@@ -9,13 +9,13 @@
     "react components",
     "svg icons"
   ],
-  "homepage": "https://github.com/unitalk/lobe-icons",
+  "homepage": "https://github.com/unitalkai/lobe-icons",
   "bugs": {
-    "url": "https://github.com/unitalk/lobe-icons/issues/new"
+    "url": "https://github.com/unitalkai/lobe-icons/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unitalk/lobe-icons.git"
+    "url": "https://github.com/unitalkai/lobe-icons.git"
   },
   "license": "MIT",
   "author": "Unitalk <i@unitalkai.com>",
