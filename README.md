@@ -6,7 +6,7 @@
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
 <img height="120" src="https://registry.npmmirror.com/@lobehub/fluent-emoji-3d/1.1.0/files/assets/1f968.webp">
 
-<h1>Unitalkai Icons based on Lobe Icons</h1>
+<h1>Unitalkai Icons  based on Lobe Icons</h1>
 
 Popular AI / LLM Model Brand SVG Logo and Icon Collection. See them all on one page at [icons.lobehub.com](https://icons.lobehub.com/).<br/>
 Contributions, corrections & requests can be made on GitHub.
