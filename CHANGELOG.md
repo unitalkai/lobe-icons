@@ -2,6 +2,90 @@
 
 # Changelog
 
+## Version 1.0.0
+
+<sup>Released on **2024-08-26**</sup>
+
+#### ✨ Features
+
+- **misc**: Add `CodeGeeX`, Add `novita.ai` `紫东太初` `360 智脑`, Add 01.AI, Add Adobe / Firefly / FishAudio / Ai21, Add aws bedrock, Add Cohere Aya (resolve, Add deepseek, Add demos, Add Gemina Colab Nvidia, Add Google Gemini, Add Hunyuan, Add LM Studio, Add LobeHub, Add midjourney, Add more ai brand, Add more ai brands, Add more llm brands, Add more llm icons, Add more providers, Add new Claude icon and Groq, Add new icons, Add OpenRouter and LLaVA, Add RWKV DBRX OpenChat, Add SiliconCloud icon, Add Tongyi Wenxi ChatGLM, Add vLLM & Stepfun, Add Yi and Grok, Doubao, root.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix avatar type, Fix dashboard, fix deps, fix deps, fix father build ignore, fix Groq Combine, fix Groq miss combine, Fix homepage, Fix ollama icon position, improve a11y, Lock dumi.
+
+#### 💄 Styles
+
+- **misc**: Fix some logo style, Fix svg id, update base flow, update gemma icon, Update lint, Update lobehub provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add `CodeGeeX`, closes [#30](https://github.com/unitalkai/lobe-icons/issues/30) ([7c301df](https://github.com/unitalkai/lobe-icons/commit/7c301df))
+- **misc**: Add `novita.ai` `紫东太初` `360 智脑` ([02e6848](https://github.com/unitalkai/lobe-icons/commit/02e6848))
+- **misc**: Add 01.AI ([fe91b49](https://github.com/unitalkai/lobe-icons/commit/fe91b49))
+- **misc**: Add Adobe / Firefly / FishAudio / Ai21, closes [#18](https://github.com/unitalkai/lobe-icons/issues/18) ([bb94c7a](https://github.com/unitalkai/lobe-icons/commit/bb94c7a))
+- **misc**: Add aws bedrock ([43ab6c3](https://github.com/unitalkai/lobe-icons/commit/43ab6c3))
+- **misc**: Add Cohere Aya (resolve, closes [#32](https://github.com/unitalkai/lobe-icons/issues/32) ([c35e8fb](https://github.com/unitalkai/lobe-icons/commit/c35e8fb))
+- **misc**: Add deepseek ([b8f4bb4](https://github.com/unitalkai/lobe-icons/commit/b8f4bb4))
+- **misc**: Add demos ([8020388](https://github.com/unitalkai/lobe-icons/commit/8020388))
+- **misc**: Add Gemina Colab Nvidia ([8472d5c](https://github.com/unitalkai/lobe-icons/commit/8472d5c))
+- **misc**: Add Google Gemini ([f4a71e0](https://github.com/unitalkai/lobe-icons/commit/f4a71e0))
+- **misc**: Add Hunyuan ([d2dc21a](https://github.com/unitalkai/lobe-icons/commit/d2dc21a))
+- **misc**: Add LM Studio ([431c63f](https://github.com/unitalkai/lobe-icons/commit/431c63f))
+- **misc**: Add LobeHub ([4c011b2](https://github.com/unitalkai/lobe-icons/commit/4c011b2))
+- **misc**: Add midjourney ([49f2030](https://github.com/unitalkai/lobe-icons/commit/49f2030))
+- **misc**: Add more ai brand ([8e63d1b](https://github.com/unitalkai/lobe-icons/commit/8e63d1b))
+- **misc**: Add more ai brands ([7c6c843](https://github.com/unitalkai/lobe-icons/commit/7c6c843))
+- **misc**: Add more llm brands ([62ba9c5](https://github.com/unitalkai/lobe-icons/commit/62ba9c5))
+- **misc**: Add more llm icons ([d1b27da](https://github.com/unitalkai/lobe-icons/commit/d1b27da))
+- **misc**: Add more providers ([63b09b0](https://github.com/unitalkai/lobe-icons/commit/63b09b0))
+- **misc**: Add new Claude icon and Groq ([97fb5ed](https://github.com/unitalkai/lobe-icons/commit/97fb5ed))
+- **misc**: Add new icons ([977ed25](https://github.com/unitalkai/lobe-icons/commit/977ed25))
+- **misc**: Add OpenRouter and LLaVA ([7997637](https://github.com/unitalkai/lobe-icons/commit/7997637))
+- **misc**: Add RWKV DBRX OpenChat ([fa45b93](https://github.com/unitalkai/lobe-icons/commit/fa45b93))
+- **misc**: Add SiliconCloud icon ([e39bdc2](https://github.com/unitalkai/lobe-icons/commit/e39bdc2))
+- **misc**: Add Tongyi Wenxi ChatGLM ([7e9b574](https://github.com/unitalkai/lobe-icons/commit/7e9b574))
+- **misc**: Add vLLM & Stepfun ([3fac0df](https://github.com/unitalkai/lobe-icons/commit/3fac0df))
+- **misc**: Add Yi and Grok ([53eff47](https://github.com/unitalkai/lobe-icons/commit/53eff47))
+- **misc**: Doubao ([a91ced7](https://github.com/unitalkai/lobe-icons/commit/a91ced7))
+- **misc**: Root ([c8ae543](https://github.com/unitalkai/lobe-icons/commit/c8ae543))
+
+#### What's fixed
+
+- **misc**: Fix avatar type ([0e3404b](https://github.com/unitalkai/lobe-icons/commit/0e3404b))
+- **misc**: Fix dashboard ([1526c46](https://github.com/unitalkai/lobe-icons/commit/1526c46))
+- **misc**: Fix deps ([385a104](https://github.com/unitalkai/lobe-icons/commit/385a104))
+- **misc**: Fix deps ([361faa5](https://github.com/unitalkai/lobe-icons/commit/361faa5))
+- **misc**: Fix father build ignore ([d18b69c](https://github.com/unitalkai/lobe-icons/commit/d18b69c))
+- **misc**: Fix Groq Combine, closes [#15](https://github.com/unitalkai/lobe-icons/issues/15) [#14](https://github.com/unitalkai/lobe-icons/issues/14) ([79be47e](https://github.com/unitalkai/lobe-icons/commit/79be47e))
+- **misc**: Fix Groq miss combine, closes [#13](https://github.com/unitalkai/lobe-icons/issues/13) ([dc1ca6a](https://github.com/unitalkai/lobe-icons/commit/dc1ca6a))
+- **misc**: Fix homepage ([7021a40](https://github.com/unitalkai/lobe-icons/commit/7021a40))
+- **misc**: Fix ollama icon position ([9d614df](https://github.com/unitalkai/lobe-icons/commit/9d614df))
+- **misc**: Improve a11y ([e533478](https://github.com/unitalkai/lobe-icons/commit/e533478))
+- **misc**: Lock dumi ([6d2f9bf](https://github.com/unitalkai/lobe-icons/commit/6d2f9bf))
+
+#### Styles
+
+- **misc**: Fix some logo style ([34ce7b6](https://github.com/unitalkai/lobe-icons/commit/34ce7b6))
+- **misc**: Fix svg id ([f7c69b9](https://github.com/unitalkai/lobe-icons/commit/f7c69b9))
+- **misc**: Update base flow ([5ec6904](https://github.com/unitalkai/lobe-icons/commit/5ec6904))
+- **misc**: Update gemma icon ([5c4fc37](https://github.com/unitalkai/lobe-icons/commit/5c4fc37))
+- **misc**: Update lint ([b7a1955](https://github.com/unitalkai/lobe-icons/commit/b7a1955))
+- **misc**: Update lobehub provider ([e880c31](https://github.com/unitalkai/lobe-icons/commit/e880c31))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.28.0](https://github.com/unitalk/lobe-icons/compare/v1.27.0...v1.28.0)
 
 <sup>Released on **2024-08-02**</sup>
